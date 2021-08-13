@@ -11,7 +11,6 @@
 
 # Flutter App Picture
 
-[<img src="https://i.ibb.co/nk0Fyx0/1111.jpg" alt="1111" border="0" width=100></a>](https://youtu.be/y2IE4eXCtCE)
 
 # Flutter App Youtube video 
 
@@ -35,4 +34,4 @@
 ## flutter pub get
 ## flutter run
 
-## [Shu Yerdan Yuklab Olishingiz Mumkun](https://github.com/lordmax777/ExaminDanLavha/blob/main/app-release.apk)
+
